@@ -1,0 +1,200 @@
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;border: 0;
+	
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+
+
+div nav ul li {
+	float: left;
+	margin-left: 5%;
+	list-style-type: none;
+	
+}
+div nav ul li a {
+	text-decoration: none;
+	color:white;
+	font-size: 20px;
+	display: block;
+}
+li.orta {
+	
+	
+}
+
+li.log1 {
+	margin-left: 4%;
+}
+
+li.log1 :hover{
+	background-size: cover;
+	background-color: #FF742A;
+	color:ghostwhite;
+}
+div.nav  {
+	width: 100%;
+	height: 800px;
+	background-image: url("joshua-sorenson-1242547-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	bottom: 0;
+	
+}
+div nav{
+	padding-top:1px;
+    
+   
+
+
+}
+div nav ul {
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	
+	
+}
+
+
+img {
+
+	float:left;
+	background-position: fixed;
+	top:0;
+	
+}
+
+div.services {
+   width: 100%;
+   height: 768px;
+   background-color:#2C2C2C;
+   border-bottom: 20px solid #2c2c2c;
+   margin-bottom: 0;
+   border-top: 1px solid black;
+
+}
+div.services ul li {
+   width: 300px;
+   height: 300px;
+   background-color: transparent;
+   display: inline-block;
+  
+   border-radius: 10px;
+
+}
+
+li.first {
+   margin-left: 20%;
+   margin-top: 50px;
+}
+li.second {
+	margin-left: 20%;
+	 margin-top: 50px;
+}
+.services a {
+   text-decoration: none;
+   color:white;
+  
+
+}
+.services h2 {
+
+text-align: center;
+
+margin-top: 210px;
+
+}
+.services img {
+
+    margin-left: 80px;
+
+    margin-top: 30px;
+
+}
+img.ss {
+	margin-top: 20px;
+
+
+}
+div.services li:hover {
+   border-color: black;
+   cursor: pointer;
+
+
+}
+div.photo {
+    width:100%;
+	height: 768px;
+	background-image: url("luca-bravo-217276-unsplash.jpg");
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-attachment: fixed;
+	
+}
+div.photo h2 {
+	display: inline-block;
+	width: 210px;
+	height: 60px;
+	background: white;
+	text-align: center;
+	margin-top: 300px;
+	margin-left: 120px;
+	padding-top: 20px;
+	border-radius: 3px;
+	
+}
+div.photo h2 a {
+	text-decoration: none;
+	color:#2c2c2c;
+}
+
+
+div.footer {
+	width:100%;
+	height: 200px;
+	background:#2c2c2c;
+	background-size: contain;
+	color:#5D60F9;
+	margin: 0;
+	border-top: 1px solid #2c2c2c;
+}
+div.footer h1 {
+	text-align: center;
+}
+div.footer h2 {
+	text-align: center;
+	letter-spacing: 5px;
+}
+div.footer h4 {
+	float: right;
+	margin-right: 50px;
+	color: white;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+	
+}
+::-webkit-scrollbar-track {
+  background: black;
+  
+}
+::-webkit-scrollbar-thumb {
+  background: white; 
+  
+}	
+::-webkit-scrollbar-thumb:hover {
+  background: #2471A3  ; 
+}	
+	
+
+
+
+
+
